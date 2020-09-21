@@ -12,7 +12,7 @@ int main()
  	int value;
  	int indx;
  	
- 	setlocale(1, "");
+ 	setlocale(0, "");
  	
  	
  	while (true)			
