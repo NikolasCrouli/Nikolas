@@ -17,7 +17,7 @@ int main()
  	
  	while (true)			
 {
-	cout << "0 - âûõîä 1 - âûâîä 2 - çàïèñü(íå áîëåå 5 ýë) 3 - ñîðò" << endl <<  "Ââåäèòå êîììàíäó:";
+	cout << "0 - IDDQD) 3 - OOOOOOOOOO MY DEFEND" << endl <<  "QWRTTDW:";
 	cin>>command;
 	system("cls");
 	
@@ -33,7 +33,7 @@ int main()
 		break;
 			
 		case 2:
-			cout<<"Ââåäèòå íîìåð ýëåìåíòà äëÿ çàïèñè è åãî çíà÷åíèå:";
+			cout<<"RGGBVRRET:";
 			cin>>indx>>value;
 			
 			arr[indx] = value;
