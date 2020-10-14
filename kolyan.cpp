@@ -11,7 +11,7 @@ void Foo1(int *arr);
 void Foo2(int *arr);
 void Foo3(int *arr);
 void Foo4(int *arr);
-void foo5(int *arr);
+void Foo5(int *arr);
 
 
 void quickSortR(int* arr,
