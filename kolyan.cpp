@@ -63,7 +63,7 @@ void AddTail()
 
 int main()
 {
-	Node *First = New Node();
+	Node *First = new Node();
 	Node *Second = new Node();
 	Node *Third = new Node();
 	
